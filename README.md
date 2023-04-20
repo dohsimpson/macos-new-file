@@ -2,6 +2,8 @@
 
 This repository contains a macOS workflow that adds a "Create New File" action to the right-click context menu in Finder. This feature is a welcome addition for users who find the native macOS Finder lacking this essential functionality.
 
+![demo.gif](./demo.gif)
+
 ## Features
 
 - Add a "Create New File" action to the right-click context menu in Finder
