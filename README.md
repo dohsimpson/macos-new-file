@@ -11,8 +11,8 @@ This repository contains a macOS workflow that adds a "Create New File" action t
 
 ## Installation
 
-1. Download the `Create New File.workflow` file from this repository.
-2. Double-click the downloaded file to install the workflow.
+1. Clone this repo
+2. Double-click the "Create New File.workflow" package to install the workflow.
 3. Follow the on-screen instructions to add the workflow to your system.
 
 After installation, you should see the "Create New File" action in the right-click context menu when you **click on a folder** or **on a Finder tab**.
